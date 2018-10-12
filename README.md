@@ -10,10 +10,13 @@
   </p>
 </p>
 
+#### Description
+Now, every company is a technology company. And with the best, most widely-used technologies coming from open source projects, it's essential that teams think about more than their code base. Companies that use open source methodologies are creating collaborative communities, increasing transparency, and shipping at unprecedented speeds.
+
+This workshop will help you learn how you can create this kind of culture within your organization, how it fits with corporate governance, and how to get buy in from leadership in your organization.
+
 #### Prerequisites
 
 _Welcome! :wave: This is the source repository for the [The Benefits of Open Source, Inside Your Organization](https://githubuniverse.com/workshops/#the-benefits-of-open-source-inside-your-organization) Universe Workshop. Be sure to follow the prerequisite(s) below before coming to the workshop to get started!_
 
 - :point_right: **Internet Access**.
-
-## NOTE: this is still a work in progress... this note will be removed when the KeyNote is ready
